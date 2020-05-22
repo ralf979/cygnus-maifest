@@ -46,6 +46,8 @@
   <remove-project name="platform/hardware/nxp/nfc" />
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/qcom/vr" />
+  <remove-project name="platform/packages/apps/Bluetooth" />
+  <remove-project name="platform/packages/apps/ThemePicker" />
 
   <!-- Useless repos -->
   <remove-project name="abl/tianocore/edk2"/>
